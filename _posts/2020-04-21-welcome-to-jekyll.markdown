@@ -6,3 +6,18 @@ categories: programming
 ---
 
 I was bored, so here's a website.
+
+```go
+func main() {
+  thing := "Yolo";
+  log.Println(thing)
+}
+```
+
+Here's some json object
+
+```json
+{
+  "key": "value"
+}
+```
